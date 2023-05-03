@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans';
+}
+.container{
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: max-content;
+    height: max-content;
+    position: absolute;
+}
+.container button{
+    border-radius: 10px;
+    border: .5px solid brown;
+    padding: 5px;
+    font-size: 20px;
+}
